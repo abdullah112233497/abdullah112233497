@@ -127,7 +127,7 @@ My goal is to **create impactful AI + Web solutions**.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah112233497&theme=dark&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abdullah112233497&theme=dark&show_icons=true"/> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah112233497&theme=dark&layout=compact"/>
 

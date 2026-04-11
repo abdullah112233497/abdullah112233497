@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Abdullah | Full-Stack & AI Developer 👨‍💻</h1>
+<h1 align="center">Muhammad Abdullah | Full-Stack & AI-Driven Developer 👨‍💻</h1>
 
 <p align="center">
   <a href="https://portfolio-abdullah-qaisar.vercel.app/">

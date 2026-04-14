@@ -174,6 +174,6 @@ Deployment & DevOps: ▇▇▇▇▇▇ 70%
 
 # 🎯 Dev Quote
 
-💬 **"Building today what will matter tomorrow."**
+💬 **"Building today what will matter tomorrow. "**
 
 ⭐ From **Muhammad Abdullah** — fueled by **curiosity, code, and chai ☕**

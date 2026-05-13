@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Abdullah | MERN/PERN-Stack & AI-Driven Developer 👨‍💻</h1>
+<h1 align="center">Muhammad Abdullah | Full-Stack Developer | AI & Data Science Engineer 👨‍💻</h1>
 
 <p align="center">
   <a href="https://portfolio-abdullah-qaisar.vercel.app/">

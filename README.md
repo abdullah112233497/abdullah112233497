@@ -21,7 +21,7 @@
 
 ---
 
-# 💫 About Me
+# 💫 About me
 
 I am a **Full-Stack & AI Developer** passionate about building **modern, scalable, and intelligent web applications**.
 

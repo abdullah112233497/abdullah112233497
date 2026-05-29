@@ -47,8 +47,8 @@ My goal is to **create impactful AI + Web solutions**.
 | Institution | Focus / Degree |
 |------------|----------------|
 | ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-blue?style=for-the-badge) | Bachelor of Software Engineering |
-| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20Data%20Science-orange?style=for-the-badge) | AI / Data Science Training & Projects | ![Stanford University](https://img.shields.io/badge/Stanford%20University-red?style=for-the-badge) | Code in Place (Communication and speaking skills, Python Programming)  |
-
+| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20Data%20Science-orange?style=for-the-badge) | AI / Data Science Training & Projects |
+| ![Stanford University](https://img.shields.io/badge/Stanford%20University-Code%20in%20Place-red?style=for-the-badge) | Communication & Speaking Skills, Python Programming |
 ---
 
 # 🛠️ Tech Stack & Skills

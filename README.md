@@ -1,4 +1,4 @@
-<h1 align="center">AI Engineer | Full Stack Developer | AI Agents, Chatbots, SaaS Platforms & Business Automation Solutions | NextJS | @Harvard CS50x Puzzle Day | @Stanford University Code in Place 👨‍💻</h1>
+<h1 align="center">AI Engineer | Full Stack Developer | AI Agents, Chatbots, SaaS Platforms & Business Automation Solutions | NextJS 👨‍💻</h1>
 
 <p align="center">
   <a href="https://portfolio-abdullah-qaisar.vercel.app/">

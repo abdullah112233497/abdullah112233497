@@ -81,7 +81,6 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
 
 ## 🎨 Frontend
 
@@ -91,7 +90,6 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ## ⚙️ Backend & Frameworks
 
@@ -99,7 +97,6 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
 
 ## 🤖 AI & Automation
 
@@ -112,7 +109,6 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
 
----
 
 ## 🗄️ Databases & ORM
 
@@ -121,7 +117,6 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
----
 
 ## 💳 Payment Integration
 
@@ -129,7 +124,6 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![One-Time Payments](https://img.shields.io/badge/One--Time_Payments-10B981?style=for-the-badge)
 ![Subscriptions](https://img.shields.io/badge/Subscriptions-F59E0B?style=for-the-badge)
 
----
 
 ## ☁️ Deployment & Tools
 

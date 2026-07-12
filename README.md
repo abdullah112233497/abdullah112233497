@@ -1,4 +1,10 @@
-<h1 align="center">AI Engineer | Full Stack Developer | AI Agents, Chatbots, SaaS Platforms & Business Automation Solutions | NextJS 👨‍💻</h1>
+<h1 align="center">
+Muhammad Abdullah | MERN Stack Developer • AI Engineer 🚀
+</h1>
+
+<h3 align="center">
+Building Scalable Web Applications, AI Agents, Chatbots & Intelligent SaaS Products
+</h3>
 
 <p align="center">
   <a href="https://portfolio-abdullah-qaisar.vercel.app/">

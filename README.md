@@ -154,7 +154,26 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 - 📊 Analytics Dashboard with real-time statistics.
 
 ---
+## 🤖 Employee Salary Prediction
 
+**Tech Stack:** Python · Scikit-learn · Pandas · NumPy · Linear Regression · Streamlit · Hugging Face
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/abdullahqaisar34523/Employee-salary-prediction)
+
+[![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahqaisar34523/Employee-salary-prediction)
+
+![Project Sticker](https://img.shields.io/badge/Machine_Learning-97%25_Accuracy-success?style=for-the-badge)
+
+### ✨ Features
+
+- 🤖 Machine Learning model built using **Linear Regression**.
+- 📊 Predicts employee salaries based on input features.
+- 🎯 Achieved **97% prediction accuracy** on the trained dataset.
+- 🐍 Developed with **Scikit-learn, Pandas, and NumPy**.
+- 🚀 Deployed on **Hugging Face Spaces** for real-time predictions.
+- 📈 Interactive interface for instant salary estimation.
+
+  
 ## 🛒 Full-Stack eCommerce Store
 
 **Tech Stack:** Next.js · FastAPI · PostgreSQL · Tailwind CSS · Stripe

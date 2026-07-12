@@ -25,6 +25,8 @@ Building Scalable MERN Applications, AI Agents, Chatbots, SaaS Platforms & Busin
   <img src="https://komarev.com/ghpvc/?username=abdullah112233497&color=blue&style=flat-square"/>
 </p>
 
+<br>
+
 ---
 
 # 💫 About Me
@@ -38,6 +40,8 @@ My expertise includes **AI integrations, OpenAI & Gemini APIs, Prompt Engineerin
 Currently pursuing a **Bachelor of Software Engineering**, I'm continuously exploring the latest advancements in Artificial Intelligence and modern web technologies to create software that solves real-world problems and delivers meaningful business value.
 
 I believe in writing clean, maintainable code and transforming innovative ideas into impactful digital products.
+
+<br>
 
 ---
 
@@ -53,6 +57,9 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 | ✓ Prompt Engineering | ✓ Cloud Deployment |
 | ✓ Multi-Agent Systems | ✓ Payment Integration |
 | ✓ n8n Automation | ✓ System Design |
+
+<br>
+
 ---
 
 # 🎓 Education & Learning
@@ -132,6 +139,10 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Neon](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black)
+
+
+<br>
+
 ---
 
 # 🚀 Featured Projects
@@ -250,6 +261,8 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 - ⚡ Instant Academic Results.
 - 📱 Responsive & User-Friendly Interface.
   
+<br>
+
 ---
 
 # 📊 GitHub Stats
@@ -264,6 +277,8 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 
 </p>
 
+<br>
+
 ---
 
 # 📈 Skill Progress Bars
@@ -273,6 +288,8 @@ Backend: ▇▇▇▇▇▇▇▇ 85%
 Databases: ▇▇▇▇▇▇▇ 80%  
 AI/ML: ▇▇▇▇▇▇▇ 75%  
 Deployment & DevOps: ▇▇▇▇▇▇ 70%
+
+<br>
 
 ---
 
@@ -287,6 +304,8 @@ Deployment & DevOps: ▇▇▇▇▇▇ 70%
 > "Dream big. Start small. Act now." – Robin Sharma  
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+
+<br>
 
 ---
 

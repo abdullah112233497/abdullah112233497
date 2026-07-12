@@ -136,49 +136,101 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 
 # 🚀 Featured Projects
 
-## 🛒 Full-Stack eCommerce Store
-**Tech Stack:** Next.js · Tailwind CSS · FastAPI · **PostgreSQL** · Stripe  
+## 🏛️ Hostel Management System
+
+**Tech Stack:** Next.js · Node.js · MongoDB · Tailwind CSS · Grok LLM
 
 [![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah112233497)
 
-![Project Sticker](https://img.shields.io/badge/Ecommerce-Next.js%2C%20Tailwind%2C%20FastAPI-blue?style=for-the-badge)
+![Project Sticker](https://img.shields.io/badge/Hostel_Management-Next.js_|_MongoDB-orange?style=for-the-badge)
 
-- Online store with **shopping cart, payment gateway & smooth UI**  
-- **CRUD operations** for products and orders  
+### ✨ Features
+
+- 🏢 Modern **Admin Dashboard** for hostel management.
+- 👨‍🎓 Student, Room & Hostel Management System.
+- 🤖 **AI Chatbot** powered by **Grok LLM** for instant assistance.
+- 📋 Complaint & Request Management.
+- 🧺 Laundry Token Management.
+- 📊 Analytics Dashboard with real-time statistics.
+
+---
+
+## 🛒 Full-Stack eCommerce Store
+
+**Tech Stack:** Next.js · FastAPI · PostgreSQL · Tailwind CSS · Stripe
+
+[![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah112233497)
+
+![Project Sticker](https://img.shields.io/badge/E-Commerce-Next.js_|_Stripe-blue?style=for-the-badge)
+
+### ✨ Features
+
+- 🛒 Complete shopping experience with responsive UI.
+- 💳 **Stripe One-Time & Subscription Payment Integration.**
+- 📦 Product & Order Management.
+- 🔐 Secure Authentication & Authorization.
+- ⚡ FastAPI-powered scalable backend.
+- 🗄 PostgreSQL database integration.
+
+---
+
+## 🌱 AgriNova Tech — AI Agriculture Platform
+
+**Tech Stack:** Next.js · Node.js · Express.js · MongoDB · Gemini AI · Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://agri-tech-software.vercel.app/)
+
+[![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah112233497)
+
+![Project Sticker](https://img.shields.io/badge/AI_Agriculture-Gemini_AI-success?style=for-the-badge)
+
+### ✨ Features
+
+- 🤖 AI Chatbot powered by **Google Gemini LLM**.
+- 🌿 AI Plant & Leaf Disease Detection.
+- 📷 Image-based AI Scanner.
+- 💊 Smart Treatment Recommendations.
+- 🌦 Weather Alert System.
+- 🌾 Agriculture Assistant for farmers.
 
 ---
 
 ## 🌐 Portfolio Website
-**Tech Stack:** Next.js · Tailwind CSS  
+
+**Tech Stack:** Next.js · Tailwind CSS · Framer Motion
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-abdullah-qaisar.vercel.app/)
 
 [![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah112233497)
 
-![Project Sticker](https://img.shields.io/badge/Portfolio-Next.js%2C%20Tailwind-green?style=for-the-badge)
+![Project Sticker](https://img.shields.io/badge/Portfolio-Next.js-green?style=for-the-badge)
 
-- Interactive portfolio showcasing **skills and projects**
+### ✨ Features
+
+- 👨‍💻 Modern developer portfolio.
+- 🚀 Responsive UI & smooth animations.
+- 📂 Project showcase.
+- 📄 Resume & contact section.
+- ⚡ Optimized with Next.js.
 
 ---
 
-## 👗 Khaas Look
-**Tech Stack:** Next.js · Tailwind CSS · LocalStorage  
+## 🎓 PassOrPanic — GPA & CGPA Calculator
+
+**Tech Stack:** Next.js · React · Tailwind CSS · JavaScript
 
 [![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah112233497)
 
-![Project Sticker](https://img.shields.io/badge/Khaas_Look-Next.js%2C%20Tailwind-orange?style=for-the-badge)
+![Project Sticker](https://img.shields.io/badge/PassOrPanic-GPA_&_CGPA-blue?style=for-the-badge)
 
-- Ladies’ clothing store with **WhatsApp order integration**
+### ✨ Features
 
----
-
-## 🏛️ Complaint Management System *(Work in Progress)*
-**Tech Stack:** Python · FastAPI · **PostgreSQL**
-
-[![GitHub Project](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah112233497)
-
-![Project Sticker](https://img.shields.io/badge/Complaint_System-Python%2C%20FastAPI-blueviolet?style=for-the-badge)
-
-- Ticketing & management system for **customer complaints**
-
+- 🎓 Official GCUF GPA & CGPA Calculation Logic.
+- 📊 Credit Hour Based Calculations.
+- 📈 Semester GPA & Overall CGPA.
+- ⚡ Instant Academic Results.
+- 📱 Responsive & User-Friendly Interface.
+  
 ---
 
 # 📊 GitHub Stats

@@ -3,7 +3,7 @@ Muhammad Abdullah — MERN Stack Developer • AI Engineer
 </h1>
 
 <h3 align="center">
-Building Scalable Web Applications, AI Agents, Chatbots & Intelligent SaaS Products
+Building Scalable MERN Applications, AI Agents, Chatbots, SaaS Platforms & Business Automation Solutions.
 </h3>
 
 <p align="center">
@@ -27,14 +27,17 @@ Building Scalable Web Applications, AI Agents, Chatbots & Intelligent SaaS Produ
 
 ---
 
-# 💫 About me
+# 💫 About Me
 
-I am a **Full-Stack & AI Developer** passionate about building **modern, scalable, and intelligent web applications**.
+I'm a **MERN Stack Developer** and **AI Engineer** passionate about building intelligent, scalable, and production-ready software.
 
-Currently pursuing **Software Engineering**, I actively work with **Next.js, Tailwind CSS, FastAPI, PostgreSQL & MongoDB**, and explore **AI/ML for real-world solutions**.
+I specialize in developing **AI Agents, Chatbots, LLM-powered applications, RAG systems, AI Workflows, Business Automation, and SaaS platforms**, alongside modern **full-stack web applications** using the **MERN Stack (MongoDB, Express.js, React, Next.js, and Node.js)**.
 
-I enjoy turning ideas into products, solving challenging problems, and writing **clean, efficient code**.  
-My goal is to **create impactful AI + Web solutions**.
+My expertise includes **AI integrations, OpenAI & Gemini APIs, Prompt Engineering, Function Calling, MCP, n8n Automation, REST APIs, Backend Architecture, Authentication, Payment Integration, and Cloud Deployment**. I work comfortably with both **SQL (PostgreSQL)** and **NoSQL (MongoDB)** databases to build scalable and secure applications.
+
+Currently pursuing a **Bachelor of Software Engineering**, I'm continuously exploring the latest advancements in Artificial Intelligence and modern web technologies to create software that solves real-world problems and delivers meaningful business value.
+
+I believe in writing clean, maintainable code and transforming innovative ideas into impactful digital products.
 
 ---
 

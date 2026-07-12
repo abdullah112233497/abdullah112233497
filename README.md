@@ -43,34 +43,16 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 
 # 🎯 Core Competencies
 
-✓ AI Agent Engineering & Multi-Agent Systems
-
-✓ LLM Applications (OpenAI, Gemini & AI Integrations)
-
-✓ AI Chatbots & Conversational AI
-
-✓ Retrieval-Augmented Generation (RAG)
-
-✓ AI Workflow & Business Process Automation
-
-✓ Prompt Engineering & AI Orchestration
-
-✓ Full-Stack SaaS Architecture & Development
-
-✓ MERN Stack Application Development
-
-✓ Scalable Backend Architecture & REST APIs
-
-✓ Authentication, Authorization & Security
-
-✓ Database Architecture (MongoDB & PostgreSQL)
-
-✓ Cloud Deployment & CI/CD
-
-✓ Payment Gateway Integration (Stripe)
-
-✓ System Design & Performance Optimization
-
+| **Artificial Intelligence** | **Software Engineering** |
+|----------------------------|--------------------------|
+| ✓ AI Agent Engineering | ✓ MERN Stack Development |
+| ✓ LLM Applications | ✓ Backend Architecture |
+| ✓ AI Chatbots | ✓ REST API Development |
+| ✓ RAG Systems | ✓ Authentication & Security |
+| ✓ AI Workflow Automation | ✓ MongoDB & PostgreSQL |
+| ✓ Prompt Engineering | ✓ Cloud Deployment |
+| ✓ Multi-Agent Systems | ✓ Payment Integration |
+| ✓ n8n Automation | ✓ System Design |
 ---
 
 # 🎓 Education & Learning

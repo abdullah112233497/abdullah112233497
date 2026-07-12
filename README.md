@@ -1,5 +1,5 @@
 <h1 align="center">
-Muhammad Abdullah | MERN Stack Developer • AI Engineer 🚀
+Muhammad Abdullah --- MERN Stack Developer • AI Engineer 
 </h1>
 
 <h3 align="center">

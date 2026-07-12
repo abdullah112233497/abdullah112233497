@@ -43,11 +43,33 @@ I believe in writing clean, maintainable code and transforming innovative ideas 
 
 # 🎯 Core Competencies
 
-✨ **Full-Stack Web Development** – React, Next.js, Tailwind CSS, FastAPI  
-🤖 **AI / ML Engineering** – OpenAI APIs, GPT systems, Deep Learning models  
-🗄 **Database Design & Management** – PostgreSQL, MongoDB  
-⚙ **Backend & API Development** – REST APIs, CRUD operations  
-☁ **Cloud Deployment** – Vercel, NeonDB  
+✓ AI Agent Engineering & Multi-Agent Systems
+
+✓ LLM Applications (OpenAI, Gemini & AI Integrations)
+
+✓ AI Chatbots & Conversational AI
+
+✓ Retrieval-Augmented Generation (RAG)
+
+✓ AI Workflow & Business Process Automation
+
+✓ Prompt Engineering & AI Orchestration
+
+✓ Full-Stack SaaS Architecture & Development
+
+✓ MERN Stack Application Development
+
+✓ Scalable Backend Architecture & REST APIs
+
+✓ Authentication, Authorization & Security
+
+✓ Database Architecture (MongoDB & PostgreSQL)
+
+✓ Cloud Deployment & CI/CD
+
+✓ Payment Gateway Integration (Stripe)
+
+✓ System Design & Performance Optimization
 
 ---
 
